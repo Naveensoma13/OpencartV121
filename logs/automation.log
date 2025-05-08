@@ -1,0 +1,103 @@
+[INFO ] 2025-05-06 10:53:40.874 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:40.878 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:40.879 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:40.879 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:40.879 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:40.884 [main] Utils - [TestNG] Running:
+  C:\Users\navee\AppData\Local\Temp\testng-eclipse--516811175\testng-customsuite.xml
+
+[INFO ] 2025-05-06 10:53:40.901 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2025-05-06 10:53:41.070 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2313052e: 61 ms
+[INFO ] 2025-05-06 10:53:41.085 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@63b1d4fa: 15 ms
+[INFO ] 2025-05-06 10:53:41.099 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@129b4fe2: 14 ms
+[INFO ] 2025-05-06 10:53:41.109 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75e91545: 10 ms
+[INFO ] 2025-05-06 10:53:41.115 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b672daa: 6 ms
+[INFO ] 2025-05-06 10:53:41.115 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@ea9b7c6: 0 ms
+[DEBUG] 2025-05-06 10:53:45.776 [main] TestNG - suiteXmlPath: "C:\Users\navee\AppData\Local\Temp\testng-eclipse--1127392356\testng-customsuite.xml"
+[INFO ] 2025-05-06 10:53:45.963 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.966 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-05-06 10:53:45.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.968 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.968 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.969 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.969 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.975 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2025-05-06 10:53:45.983 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[INFO ] 2025-05-06 10:53:45.984 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.985 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.986 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.986 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.986 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.986 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.991 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.992 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.992 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.993 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.994 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.994 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.994 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.994 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.996 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2025-05-06 10:53:45.996 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.997 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.997 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.997 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-05-06 10:53:45.997 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-05-06 10:53:46.001 [main] Utils - [TestNG] Running:
+  C:\Users\navee\AppData\Local\Temp\testng-eclipse--1127392356\testng-customsuite.xml
+
+[INFO ] 2025-05-06 10:53:46.020 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2025-05-06 10:53:46.212 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6b9267b: 67 ms
+[INFO ] 2025-05-06 10:53:46.233 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@750fe12e: 21 ms
+[INFO ] 2025-05-06 10:53:46.252 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ed190be: 17 ms
+[INFO ] 2025-05-06 10:53:46.263 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@213e3629: 11 ms
+[INFO ] 2025-05-06 10:53:46.270 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@54ec8cc9: 6 ms
+[INFO ] 2025-05-06 10:53:46.270 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@52eacb4b: 0 ms
+[DEBUG] 2025-05-06 11:05:32.163 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-06 11:05:32.376 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\Master.xml
+
+[DEBUG] 2025-05-06 11:06:33.216 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Grouping.xml"
+[INFO ] 2025-05-06 11:06:33.430 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\Grouping.xml
+
+[DEBUG] 2025-05-06 11:07:58.437 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\crossBrowserTesting.xml"
+[INFO ] 2025-05-06 11:07:58.637 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\crossBrowserTesting.xml
+
+[INFO ] 2025-05-06 11:07:58.728 [TestNG-tests-3] TC001_AccountRegistrationTest - ******Strating  TC001_AccountRegistrationTest********
+[DEBUG] 2025-05-06 11:11:11.981 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-06 11:11:12.192 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\Master.xml
+
+[DEBUG] 2025-05-06 11:12:34.651 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[DEBUG] 2025-05-06 15:49:44.057 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-06 15:49:44.574 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\Master.xml
+
+[DEBUG] 2025-05-06 15:50:32.840 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-06 15:50:33.299 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\Master.xml
+
+[DEBUG] 2025-05-06 15:52:09.042 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-06 15:52:09.471 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\Master.xml
+
+[INFO ] 2025-05-06 15:52:19.106 [main] TC001_AccountRegistrationTest - ******Strating  TC001_AccountRegistrationTest********
+[INFO ] 2025-05-06 15:52:19.421 [main] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-05-06 15:52:20.177 [main] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-05-06 15:52:20.181 [main] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-05-06 15:52:22.991 [main] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-05-06 15:52:23.077 [main] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-05-06 15:52:26.688 [main] TC002_LoginTest - *********Starting TC002_LoginTest************
+[INFO ] 2025-05-06 15:52:29.050 [main] TC002_LoginTest - *********Finished TC002_LoginTest************
+[DEBUG] 2025-05-06 15:52:59.298 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-06 15:53:04.146 [main] TC001_AccountRegistrationTest - ******Strating  TC001_AccountRegistrationTest********
+[INFO ] 2025-05-06 15:53:04.660 [main] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-05-06 15:53:05.254 [main] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-05-06 15:53:05.258 [main] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-05-06 15:53:07.932 [main] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-05-06 15:53:08.002 [main] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-05-06 15:53:11.392 [main] TC002_LoginTest - *********Starting TC002_LoginTest************
+[INFO ] 2025-05-06 15:53:14.009 [main] TC002_LoginTest - *********Finished TC002_LoginTest************

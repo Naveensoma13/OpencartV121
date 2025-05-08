@@ -1,0 +1,43 @@
+[INFO ] 2025-04-10 13:35:23.560 [main] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[DEBUG] 2025-04-10 13:42:51.563 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\crossBrowserTesting.xml"
+[INFO ] 2025-04-10 13:42:51.744 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\crossBrowserTesting.xml
+
+[INFO ] 2025-04-10 13:42:56.424 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Strating  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:42:56.633 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-04-10 13:42:56.888 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Strating  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:42:57.011 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-04-10 13:42:57.610 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-04-10 13:42:57.612 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-04-10 13:42:57.734 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-04-10 13:42:57.735 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-04-10 13:42:58.832 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-04-10 13:42:59.203 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Strating  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:42:59.459 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-04-10 13:42:59.472 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-04-10 13:42:59.542 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:43:00.322 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-04-10 13:43:00.323 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-04-10 13:43:02.926 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-04-10 13:43:02.945 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[DEBUG] 2025-04-10 13:45:44.986 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\crossBrowserTesting.xml"
+[INFO ] 2025-04-10 13:45:45.192 [main] Utils - [TestNG] Running:
+  D:\Eclipse Files\OpencartV121\crossBrowserTesting.xml
+
+[INFO ] 2025-04-10 13:45:48.726 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Strating  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:45:48.937 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-04-10 13:45:49.026 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Strating  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:45:49.187 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-04-10 13:45:49.586 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-04-10 13:45:49.588 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-04-10 13:45:49.862 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-04-10 13:45:49.864 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-04-10 13:45:51.419 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-04-10 13:45:51.469 [TestNG-tests-1] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:45:51.596 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-04-10 13:45:51.658 [TestNG-tests-2] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:45:52.432 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Strating  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-04-10 13:45:52.700 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-04-10 13:45:53.423 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-04-10 13:45:53.423 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-04-10 13:45:54.643 [TestNG-tests-3] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
