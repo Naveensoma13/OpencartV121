@@ -101,3 +101,12 @@
 [INFO ] 2025-05-06 15:53:08.002 [main] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
 [INFO ] 2025-05-06 15:53:11.392 [main] TC002_LoginTest - *********Starting TC002_LoginTest************
 [INFO ] 2025-05-06 15:53:14.009 [main] TC002_LoginTest - *********Finished TC002_LoginTest************
+[DEBUG] 2025-05-12 17:26:06.602 [main] TestNG - suiteXmlPath: "D:\Eclipse Files\OpencartV121\Master.xml"
+[INFO ] 2025-05-12 17:26:10.986 [main] TC001_AccountRegistrationTest - ******Strating  TC001_AccountRegistrationTest********
+[INFO ] 2025-05-12 17:26:11.236 [main] TC001_AccountRegistrationTest - ****** Clicked on My Account Link ********
+[INFO ] 2025-05-12 17:26:11.655 [main] TC001_AccountRegistrationTest - ****** Clicked on Register Link ********
+[INFO ] 2025-05-12 17:26:11.657 [main] TC001_AccountRegistrationTest - ****** Providing Customer Details ********
+[INFO ] 2025-05-12 17:26:13.032 [main] TC001_AccountRegistrationTest - ****** Validating Expected Message ********
+[INFO ] 2025-05-12 17:26:13.100 [main] TC001_AccountRegistrationTest - ****** Finished  TC001_AccountRegistrationTest   ********
+[INFO ] 2025-05-12 17:26:15.507 [main] TC002_LoginTest - *********Starting TC002_LoginTest************
+[INFO ] 2025-05-12 17:26:16.905 [main] TC002_LoginTest - *********Finished TC002_LoginTest************
